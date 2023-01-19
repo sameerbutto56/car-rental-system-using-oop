@@ -1,0 +1,77 @@
+Enter Your Name= sameer
+Number Of Cars=123
+Advance Amount=123
+Total amaount=759217500
+Your Remaining=759217377
+No. of Days12345
+
+Enter Your Name= sameer
+Number Of Cars=4
+Advance Amount=6677
+Total amaount=16000
+Your Remaining=9323
+No. of Days8
+
+Enter Your Name= sameer
+Number Of Cars=123
+Advance Amount=34
+Total amaount=738000
+Your Remaining=737966
+No. of Days12
+
+Enter Your Name= sameer
+Number Of Cars=123
+Advance Amount=45
+Total amaount=75891000
+Your Remaining=75890955
+No. of Days1234
+
+Enter Your Name= sameer
+Number Of Cars=123
+Advance Amount=78909876
+Total amaount=28044000
+Your Remaining=-50865876
+No. of Days456
+
+Enter Your Name= sameer
+Number Of Cars=678
+Advance Amount=5678
+Total amaount=-984632296
+Your Remaining=-984637974
+No. of Days9765
+
+Enter Your Name= sa
+Number Of Cars=34
+Advance Amount=1
+Total amaount=1326000
+Your Remaining=1325999
+No. of Days78
+
+Enter Your Name= sameer
+Number Of Cars=123
+Advance Amount=66098
+Total amaount=3382500
+Your Remaining=3316402
+No. of Days55
+
+Enter Your Name= sa
+Number Of Cars=2
+Advance Amount=3
+Total amaount=3000
+Your Remaining=2997
+No. of Days3
+
+Name is : sameer
+Number of Cars = : 2
+Number of Days = 4
+Total Amount = 4000
+Advance Amount = 678
+Remaining Balance is = 3322
+
+Name is : 1
+Number of Cars = : 1
+Number of Days = 1
+Total Amount = 500
+Advance Amount = 1
+Remaining Balance is = 499
+
